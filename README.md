@@ -1,6 +1,8 @@
 # 💫 About Me:
 👨‍💻 I recently graduated with a Bachelor's Degree in Data Science from TARUMT <br>🏫 I am currently delving into the intricacies of Javascript and Angular to strengthen my foundation.<br>🔎 Actively seeking opportunities in front-end or full-stack development roles <br>💬 Feel free to reach out for discussions on web development or web scraping<br>💡 I am not only tech-savvy but also a sports enthusiast with a keen interest in psychology-related topics<br>
 
+---
+[![](https://visitcount.itsvg.in/api?id=kchongee&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/khoo.chongee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k_chong_ee073) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khoo-chong-ee-989b62195) 
@@ -23,8 +25,5 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=kchongee&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
